@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link rel="stylesheet" href="final.css">
+	</head>
+	<body>
+		<h1> All About Me </h1>
+
+		<h1> Name: </h1> <p> Damien C </p>
+		<h1> Birth Day: </h1> <p> April, 14th </p>
+		<h1> Place of Birth: </h1> <p> Tennessee </p>
+		<h1> Current Location: </h1> <p> Mcdonough, Georgia </p>
+		<h1> Family: </h1> <p> A brother, a sister, parents, and my dog </p>
+		<h1> Hobbies: </h1> <p> Basketball and guitar </p>
+
+		<p> For my future career I am not sure what I want to do but I deffinitly want to go to college. I like to play sports but I also like to play music aswell so I could choose a path in either profession. I also think I would like to start my own buisness of some sort. </p>
+       
+        <h1> My 10 facts about myself: </h1>
+		<ol>
+			<li> My favorite food is Chick-Fil-A </li>
+			<li> My favorite color is blue </li>
+			<li> My favorite sport is basketball </li>
+			<li> My favorite types of music are rap and rock </li>
+			<li> My favorite animal is dogs </li>
+			<li> My favorite book is the Harry Potter Series </li>
+		</ol>
+	</body>
+</html>
